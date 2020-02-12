@@ -85,7 +85,7 @@
     <orderEntry type="library" scope="PROVIDED" name="turbolinks-source (v5.2.0, RVM: ruby-2.5.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.6, RVM: ruby-2.5.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v4.2.0, RVM: ruby-2.5.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="web-console (v4.0.1, RVM: ruby-2.5.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="web-console (v3.7.0, RVM: ruby-2.5.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.5, RVM: ruby-2.5.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.4, RVM: ruby-2.5.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, RVM: ruby-2.5.5) [gem]" level="application" />
